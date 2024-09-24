@@ -81,9 +81,6 @@
         <mxCell id="w7WVMuhY2U10hiychQ4M-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.067;entryY=0.524;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w7WVMuhY2U10hiychQ4M-32" target="w7WVMuhY2U10hiychQ4M-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w7WVMuhY2U10hiychQ4M-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.593;entryY=0.927;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w7WVMuhY2U10hiychQ4M-34" target="w7WVMuhY2U10hiychQ4M-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="w7WVMuhY2U10hiychQ4M-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w7WVMuhY2U10hiychQ4M-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="170" as="targetPoint" />
@@ -139,6 +136,9 @@
         </mxCell>
         <mxCell id="w7WVMuhY2U10hiychQ4M-61" value="ArgoCD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-255" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w7WVMuhY2U10hiychQ4M-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.716;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w7WVMuhY2U10hiychQ4M-34" target="w7WVMuhY2U10hiychQ4M-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

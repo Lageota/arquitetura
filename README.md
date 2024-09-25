@@ -1,3 +1,3 @@
 # Arquitetura
 
-![image](https://github.com/user-attachments/assets/c181adc2-97aa-4658-a45a-bd1ef3421567)
+![image](https://github.com/user-attachments/assets/3567d0d8-2479-4b06-b873-cbb526994bfe)
